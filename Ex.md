@@ -1,4 +1,2 @@
 # Exercice
 * Part 1
-
-
